@@ -53,27 +53,27 @@ const Navigation = () => {
         <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-end  flex flex-col lg:h-auto">
           <Link href="/">
             <a className="lg:mr-8 lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-2xl text-black font-bold items-center justify-center hover:bg-secondary hover:text-black">
-              <span className="ml-3">Recetas</span>
+              <span className="">Recetas</span>
             </a>
           </Link>
           <Link href="/">
             <a className="lg:mr-8 lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-2xl text-black font-bold  items-center justify-center hover:bg-secondary hover:text-black">
-              <span className="ml-3">Blog</span>
+              <span className="">Blog</span>
             </a>
           </Link>
           <Link href="/">
             <a className="lg:mr-8 lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-2xl text-black font-bold  items-center justify-center hover:bg-secondary hover:text-black">
-              <span className="ml-3">Contactenos</span>
+              <span className="">Contactenos</span>
             </a>
           </Link>
           <Link href="/">
             <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-2xl text-black font-bold   lg:mr-20 hover:bg-secondary hover:text-black ">
-              <span className="ml-3">Acerca de nosotros</span>
+              <span className="">Acerca de nosotros</span>
             </a>
           </Link>
           <Link href="/">
             <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded-2xl text-black font-bold  items-center justify-center hover:bg-secondary hover:text-black">
-              <span className="ml-3">Login</span>
+              <span className="">Login</span>
             </a>
           </Link>
         </div>
